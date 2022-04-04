@@ -3,7 +3,7 @@
 
 [patika.dev](https://app.patika.dev/paths)
 
-
+![the picture](https://github.com/Huseyinyetisir145/kodluyoruzilkrepo/blob/7b798855b46ff173f9d5d6eeabdf681029f279ff/Screenshot%202022-04-04%20172259.png)
 
 ## Installation
 
